@@ -5,6 +5,7 @@
 - 2 cups all-purpose flour
 - 1 3/4 cups granulated sugar
 - 3/4 cup unsweetened cocoa powder
+<<<<<<< HEAD
 - 1/2 tsp ground cinnamon
 - ...
 
@@ -28,3 +29,18 @@
 5. Don't eat the cake and throw it away.
 6. Don't share the cake with anyon
 
+=======
+- 1 cup chocolate chips
+- 1 tsp vanilla extract
+- 1/2 cup vegetable oil
+- 2 egg whites
+
+## Instructions:
+1. Preheat the oven to 350°F (175°C).
+2. In a large bowl, whisk together the flour, sugar, cocoa powder, chocolate chips, and vanilla extract.
+3. In a separate bowl, beat the eggs and add them to the mixture. Stir until well combined.
+4. Gradually add the milk and vegetable oil to the mixture, continuing to stir.
+5. Pour the batter into a greased and floured 9x13-inch baking pan.
+6. Cook until a toothpick comes out mostly clean, but not fully (roughly 30 minutes).
+7. Let cake rest for about 20 minutes prior to enjoying.
+8. Serve and enjoy!
